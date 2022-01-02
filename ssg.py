@@ -5,7 +5,7 @@ from ssg.site import Site
 #Number 1.8 Configuration options
 def main(source="content", dest="dist"):
     config = {
-        "source": source,
+        "source": source, 
         "dest": dest
     }
 

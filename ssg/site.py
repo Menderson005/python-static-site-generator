@@ -1,7 +1,7 @@
 #Number 1.1 Import pathlib
 from pathlib import Path 
 
-#Number 1.2 Create a Class
+#Number 1.2 Create a Class 
 class Site: 
     def __init__(self, source, dest):
         self.source = Path(source)
